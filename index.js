@@ -37,13 +37,4 @@ function actionApplyer (start , funArr){
 
 
 }
-// function actionApplyer(start,...functions) {
-//   // return functions.length === 0 ? start : 4;
-//   if(functions.length === 0){
-//     return start;
-//   }
-//   for (const i of functions) {
-//       start = i(start);
-//   }
-//   return start;
-// }
+
